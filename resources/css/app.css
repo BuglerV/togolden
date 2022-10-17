@@ -1,0 +1,24 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: #ffc107;
+}
+
+b {
+	color: #ffc107;
+}
+
+.alertoff{
+  transition: 0.4s all;
+  top:-40px;
+}
+.alerton{top:5px !important;opacity:75% !important;}
+
+#modalFog {
+	backdrop-filter: blur(5px);
+}
+#modalBody {
+	margin-top: 6%;
+}

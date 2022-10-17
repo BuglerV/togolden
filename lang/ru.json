@@ -1,0 +1,29 @@
+{
+	"Login": "Войти",
+	"Logout": "Выйти",
+	"Save": "Сохранить",
+	"Registration": "Регистрация",
+	"Register me": "Зарегистрироваться",
+	
+	"Email": "Почтовый ящик",
+	"Name": "Имя",
+	"Change password": "Сменить пароль",
+	"Password": "Пароль",
+	"Password confirmation": "Пароль еще раз",
+    "Email Password Reset Link": "Ссылка для сброса пароля",
+	"Forgotten password?": "Забыли пароль?",
+	"Remember me": "Запомнить",
+	
+	"Director": "Генеральный директор",
+	"Address": "Адрес",
+	"Phone": "Телефон",
+	"INN": "ИНН",
+	"Description": "Общая информация",
+	"Title": "Название",
+	
+	"Make comment": "Прокомментировать",
+	"Comment company": "Прокомментировать компанию",
+	"Companies": "Компании",
+	"Text": "Текст",
+	"New company": "Новая компания"
+}

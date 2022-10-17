@@ -1,0 +1,1 @@
+<div id="alertElem" class="alertoff bg-warning text-black rounded-2 text-center fs-6 opacity-0 d-inline-blick position-fixed w-50 offset-3"></div>
